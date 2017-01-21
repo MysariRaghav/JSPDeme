@@ -1,6 +1,6 @@
 <head>
 <%!
-	String str="good morning";	
+	String str="good morning to you. Now Working";	
 
 %>
 </head>
